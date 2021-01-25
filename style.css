@@ -1,0 +1,17 @@
+.main{
+    color: #2F5061;
+}
+
+.container .main-form{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+}
+
+.main .roll-section{
+    margin: 1em 0;
+}
+
+.result{
+    color: #4297A0;
+}
